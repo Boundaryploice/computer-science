@@ -1,13 +1,12 @@
 **Optimized Performance**
 
 Enhanced Security.**
-
 This repository is a dedicated, actively maintained fork of the Boundaryploice computer science collection, specifically optimized for modern workflows. We have streamlined the core architecture to deliver noticeable performance improvements and implemented critical security fixes to ensure stability. It serves as a reliable, hardened alternative designed for seamless integration and robust deployment.
 
 **Quick install**
 
 ```bash
-npm install git+https://github.com/Boundaryploice/computer-science.git
+git clone https://github.com/Boundaryploice/computer-science.git
 ```
 
 [https://github.com/Boundaryploice/computer-science](https://github.com/Boundaryploice/computer-science)
